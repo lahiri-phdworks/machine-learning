@@ -1,3 +1,13 @@
+#Files
+Temps/*
+Temp/*
+temp/*
+*.c
+*.o
+*.pyi
+*.out
+random/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
