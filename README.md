@@ -8,5 +8,5 @@ Machine Learning with PyTorch, Pandas, Seaborn, scikit-learn and Julia
 
 Vector Matrix operations with `torch.einsum()`, example shows dot product of 2D vectors.
 
-![einsum](./basics/torch_einsum.jpg)
+![einsum](./basics/torch_einsum.png)
 
